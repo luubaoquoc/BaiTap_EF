@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTC#\\BaiTap_EF\\data_first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1A0C44-0CFB-4F68-91E2-5E9BC5155C7E}|data_first\\data_first.csproj|d:\\ltc#\\baitap_ef\\data_first\\data_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1A0C44-0CFB-4F68-91E2-5E9BC5155C7E}|data_first\\data_first.csproj|solutionrelative:data_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1A0C44-0CFB-4F68-91E2-5E9BC5155C7E}|data_first\\data_first.csproj|d:\\ltc#\\baitap_ef\\data_first\\data_first\\models\\datafirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1A0C44-0CFB-4F68-91E2-5E9BC5155C7E}|data_first\\data_first.csproj|solutionrelative:data_first\\models\\datafirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataFirstContext.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\data_first\\data_first\\Models\\DataFirstContext.cs",
+              "RelativeDocumentMoniker": "data_first\\Models\\DataFirstContext.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\data_first\\data_first\\Models\\DataFirstContext.cs",
+              "RelativeToolTip": "data_first\\Models\\DataFirstContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:33:39.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\data_first\\data_first\\Program.cs",
+              "RelativeDocumentMoniker": "data_first\\Program.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\data_first\\data_first\\Program.cs",
+              "RelativeToolTip": "data_first\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCMAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:34:27.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

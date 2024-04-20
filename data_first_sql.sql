@@ -1,0 +1,21 @@
+create database data_first
+
+
+CREATE TABLE Khoa (
+  Id INT PRIMARY KEY ,
+  TenKhoa NVARCHAR(50) NOT NULL,
+);
+
+CREATE TABLE Lop (
+  Id INT PRIMARY KEY ,
+  TenLop NVARCHAR(50) NOT NULL,
+  KhoaId INT NOT NULL,
+  FOREIGN KEY (KhoaId) REFERENCES Khoa(Id)
+);
+CREATE TABLE SinhVien (
+  Id INT PRIMARY KEY ,
+  HoTen NVARCHAR(50) NOT NULL,
+  Tuoi Int,
+  LopId INT NOT NULL,
+  FOREIGN KEY (LopId) REFERENCES Lop(Id)
+);

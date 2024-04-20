@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTC#\\BaiTap_EF\\code_first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\20240420103108_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code_first\\Data\\migrations\\20240420103108_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\data\\sinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\data\\sinhviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\data\\migrations\\20240420053257_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\data\\migrations\\20240420053257_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|d:\\ltc#\\baitap_ef\\code_first\\code_first\\data\\migrations\\sinhviencontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579B1701-D5E5-4A81-8C79-A939728329F0}|code_first\\code_first.csproj|solutionrelative:code_first\\data\\migrations\\sinhviencontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240420103108_second.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\20240420103108_second.cs",
+              "RelativeDocumentMoniker": "code_first\\Data\\migrations\\20240420103108_second.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\20240420103108_second.cs",
+              "RelativeToolTip": "code_first\\Data\\migrations\\20240420103108_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:31:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240420053257_initial.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\20240420053257_initial.cs",
+              "RelativeDocumentMoniker": "code_first\\Data\\migrations\\20240420053257_initial.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\20240420053257_initial.cs",
+              "RelativeToolTip": "code_first\\Data\\migrations\\20240420053257_initial.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:32:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Program.cs",
+              "RelativeDocumentMoniker": "code_first\\Program.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Program.cs",
+              "RelativeToolTip": "code_first\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:25:33.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\appsettings.json",
+              "RelativeDocumentMoniker": "code_first\\appsettings.json",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\appsettings.json",
+              "RelativeToolTip": "code_first\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T05:23:30.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinhVienConText.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\SinhVienConText.cs",
+              "RelativeDocumentMoniker": "code_first\\Data\\SinhVienConText.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\SinhVienConText.cs",
+              "RelativeToolTip": "code_first\\Data\\SinhVienConText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:09:45.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Models\\Khoa.cs",
+              "RelativeDocumentMoniker": "code_first\\Models\\Khoa.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Models\\Khoa.cs",
+              "RelativeToolTip": "code_first\\Models\\Khoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:06:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Models\\Lop.cs",
+              "RelativeDocumentMoniker": "code_first\\Models\\Lop.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Models\\Lop.cs",
+              "RelativeToolTip": "code_first\\Models\\Lop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:05:40.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "code_first\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Models\\SinhVien.cs",
+              "RelativeToolTip": "code_first\\Models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:04:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinhVienConTextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\SinhVienConTextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "code_first\\Data\\migrations\\SinhVienConTextModelSnapshot.cs",
+              "ToolTip": "D:\\LTC#\\BaiTap_EF\\code_first\\code_first\\Data\\migrations\\SinhVienConTextModelSnapshot.cs",
+              "RelativeToolTip": "code_first\\Data\\migrations\\SinhVienConTextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:01:32.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
